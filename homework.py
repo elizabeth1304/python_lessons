@@ -46,3 +46,4 @@
 
 
 print("smth")
+print("smth")
