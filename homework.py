@@ -1,3 +1,4 @@
+#smth
 # First Homework for the First lesson, sorry for the delay.
 # print("name: John", "surname: Dohn", sep=("\n"))
 
