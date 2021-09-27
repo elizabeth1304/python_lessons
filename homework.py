@@ -45,6 +45,4 @@
 # The EXTRA task will come later or maybe never.
 
 
-print("smth")
-
 
